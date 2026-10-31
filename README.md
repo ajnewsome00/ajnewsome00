@@ -16,7 +16,6 @@ Allé keeps a group trip in one place: the plan, the people, the decisions and t
 ## Contact
 
 [nomadsolutions.tech](https://nomadsolutions.tech) · hello@nomadsolutions.tech · [LinkedIn](https://www.linkedin.com/in/ajnewsome/)
-## Hi there 👋
 
 <!--
 **ajnewsome00/ajnewsome00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
